@@ -1,0 +1,6 @@
+{
+  "name": "Hand Gesture Computer Control System",
+  "description": "Professional computer vision hand gesture control system featuring real-time MediaPipe hand tracking, smooth cursor navigation, gesture recognition, and interactive control dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
